@@ -1,7 +1,5 @@
 ### Hi, I'm Meyazhagan👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Java, html, css, js, python.
 - 🌱 I’m currently learning servlets, JSP, java frameworks.
 - 👯 I’m looking to collaborate on java projects.
@@ -49,3 +47,5 @@ Here are some ideas to get you started:
 - Learn about back tracking algorithm.
 - Learn to visualize an algorithm.
 - Understood of working of finding routes in map.
+
+<img align="left" alt="Meyazhagan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Meyazhagan&show_icons=true&hide_border=true" /
