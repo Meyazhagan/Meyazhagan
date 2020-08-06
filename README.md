@@ -10,38 +10,36 @@ Here are some ideas to get you started:
 ---
 
 ## CHIP 8 EMULATOR
-• Implemented pseudo operation for each opcode.
-• It emulate architecture of chip 8 to run .c8 file.
+- Implemented pseudo operation for each opcode.
+- It emulate architecture of chip 8 to run .c8 file.
 ### From this project I
-• Learn to implement bitwise operator.
-• Got great understanding of how an complied program is executed.
-• Understood how an emulator is build.
+- Learn to implement bitwise operator.
+- Got great understanding of how an complied program is executed.
+- Understood how an emulator is build.
 
 ## BASIC 3D RENDER ENGINE USING SWING
-• Implemented depth buffer algorithms to get 3D
-view.
-• Implemented rotation, scaling and shading of triangles.
+- Implemented depth buffer algorithms to get 3D view.
+- Implemented rotation, scaling and shading of triangles.
 ### From this project I
-• Learn to implement rotation, scaling in matrix
-representation.
-• Learn how to implement matrix multiplication and transpose.
-• Calculated surface normal using vector cross product.
-• Using normal implemented shading of triangle.
+- Learn to implement rotation, scaling in matrix representation.
+- Learn how to implement matrix multiplication and transpose.
+- Calculated surface normal using vector cross product.
+- Using normal implemented shading of triangle.
 
 ## SUDOKU SOLVER
-• Sudoku problem is visualized to solve it.
-• Program will fill valid output, if there is any invalid output, it will back track and correct the mistake.
-• The program will also allow the player to play.
-• It will also evaluate user input.
+- Sudoku problem is visualized to solve it.
+- Program will fill valid output, if there is any invalid output, it will back track and correct the mistake.
+- The program will also allow the player to play.
+- It will also evaluate user input.
 ### From this project I
-• Understood of back tracking algorithm.
-• Understood of layouts and designing in swing.
+- Understood of back tracking algorithm.
+- Understood of layouts and designing in swing.
 
 ## FINDING SHORTEST DISTANCE
-• We can set start and destination to find routes.
-• We can also draw wall to ignore that way.
+- We can set start and destination to find routes.
+- We can also draw wall to ignore that way.
 ### From this project I
-• Using A* searching algorithm to find shortest distance.
-• Learn about back tracking algorithm.
-• Learn to visualize an algorithm.
-• Understood of working of finding routes in map.
+- Using A* searching algorithm to find shortest distance.
+- Learn about back tracking algorithm.
+- Learn to visualize an algorithm.
+- Understood of working of finding routes in map.
