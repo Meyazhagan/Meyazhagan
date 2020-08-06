@@ -9,6 +9,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mey
 ---
 
+# Java Project
+- [Chip 8 Emulator](https://github.com/Meyazhagan/chip-8-emulator)
+- [Basic 3D Render Engine](https://github.com/Meyazhagan/3d-render-engine)
+- [Sudoku Solver](https://github.com/Meyazhagan/sudoku-solver)
+- [Finding Shortest Distance](https://github.com/Meyazhagan/path-findind)
+
 ## CHIP 8 EMULATOR
 - Implemented pseudo operation for each opcode.
 - It emulate architecture of chip 8 to run .c8 file.
