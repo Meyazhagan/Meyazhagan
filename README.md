@@ -48,4 +48,4 @@
 - Learn to visualize an algorithm.
 - Understood of working of finding routes in map.
 
-<img align="left" alt="Meyazhagan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Meyazhagan&show_icons=true&hide_border=true" /
+<img align="left" alt="Meyazhagan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Meyazhagan&show_icons=true&hide_border=true"/>
