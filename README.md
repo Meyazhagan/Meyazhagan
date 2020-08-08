@@ -7,9 +7,10 @@
 
 ---
 
-To view my resume [click here](https://github.com/Meyazhagan/resume/blob/master/MEYAZHAGAN%20C%20N(resume).pdf)
+To view my resume [click here](https://github.com/Meyazhagan/resume/blob/master/MEYAZHAGAN%20C%20N(resume).pdf).
 
 ---
+
 
 # Java Project
 - [Chip 8 Emulator](https://github.com/Meyazhagan/chip-8-emulator)
