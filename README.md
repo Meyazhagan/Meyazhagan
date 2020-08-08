@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning servlets, JSP, java frameworks.
 - 👯 I’m looking to collaborate on java projects.
 - 📫 How to reach me: meyazhagan.ofcl@gmailcom
-- 😄 Pronouns: Mey
+
 ---
 
 # Java Project
