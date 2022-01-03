@@ -1,4 +1,5 @@
-## Hello 👋,
+**Hello 👋,**
+
 # My name is **Meyazhagan**
 
 -   🌱 I’m currently learning **MERN Stack**.
@@ -8,6 +9,12 @@
 -   📫 How to reach me [meyazhagan.ofcl@gmail.com](mailto:meyazhagan.ofcl@gmail.com).
 
 -   ⚡ Fun fact Opportunity does not knock, it presents itself when you beat down the door.
+
+<br />
+
+<hr/>
+
+<br />
 
 ## Frontend
 
@@ -36,13 +43,32 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+<br />
+
+<hr/>
+
+<br />
+
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meyazhagan-c-n-7162901b0)
-[![Google Drive](https://img.shields.io/badge/my%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1A7hc8VZkgYvSSKX667zTl9Mfpms3g4U3/view)
-[![Gmail](https://img.shields.io/badge/meyazhagan.ofcl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meyazhagan.ofcl@gmail.com)
+<a href="https://www.linkedin.com/in/meyazhagan-c-n-7162901b0" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1A7hc8VZkgYvSSKX667zTl9Mfpms3g4U3/view" target="_blank">
+<img src="https://img.shields.io/badge/my%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+<a href="mailto:meyazhagan.ofcl@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/meyazhagan.ofcl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://meyazhagan.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%E2%99%A5-red?style=for-the-badge" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%E2%99%A5-red?style=for-the-badge)](https://meyazhagan.netlify.app/)
+<br />
+
+<hr/>
+
+<br />
 
 ## GitHub Stats
 
