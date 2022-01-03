@@ -1,5 +1,4 @@
 ## Hello 👋,
-
 # My name is **Meyazhagan**
 
 -   🌱 I’m currently learning **MERN Stack**.
@@ -43,7 +42,7 @@
 [![Google Drive](https://img.shields.io/badge/my%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1A7hc8VZkgYvSSKX667zTl9Mfpms3g4U3/view)
 [![Gmail](https://img.shields.io/badge/meyazhagan.ofcl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meyazhagan.ofcl@gmail.com)
 
-[![](https://img.shields.io/badge/Portfolio-%E2%99%A5-red?style=for-the-badge)](#shortcuts)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%E2%99%A5-red?style=for-the-badge)](https://meyazhagan.netlify.app/)
 
 ## GitHub Stats
 
