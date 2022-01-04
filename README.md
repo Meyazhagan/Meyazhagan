@@ -60,9 +60,9 @@
 
 ## GitHub Stats
 
-<img width="38%"
+<img
 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=meyazhagan&layout=compact&hide=scss,shell"
 />
-<img width="48%"
+<img
 src="https://github-readme-stats.vercel.app/api?username=meyazhagan&hide=contribs,issues&show_icons=true&include_all_commits=true&theme=gradient"
 />
