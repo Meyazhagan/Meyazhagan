@@ -1,6 +1,8 @@
 **Hello 👋,**
 # My name is **Meyazhagan**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=4FA5F7&size=22&lines=I'm+a+full+stack+developer;Enthusiast+in+design;Love+to+Code;Good+in+problem+solving;Love+to+open+source)](https://git.io/typing-svg)
+
 -   🌱 I’m currently learning **MERN Stack**.
 
 -   💬 Ask me about **Javascript**, **ReactJs** and **Nodejs**.
