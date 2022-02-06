@@ -60,11 +60,9 @@
 <img src="https://img.shields.io/badge/Portfolio-%E2%99%A5-red?style=for-the-badge" />
 </a>
 
-## GitHub Stats
+###
 
-<img
-src= "https://github-readme-stats.vercel.app/api/top-langs/?username=meyazhagan&layout=compact&hide=scss,shell"
-/>
-<img
-src="https://github-readme-stats.vercel.app/api?username=meyazhagan&hide=contribs,issues&show_icons=true&include_all_commits=true&theme=gradient"
-/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=meyazhagan&show_icons=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=meyazhagan&theme=jolly" />
+</p>
