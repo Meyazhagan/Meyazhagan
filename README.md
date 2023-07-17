@@ -1,13 +1,18 @@
-**Hello 👋,**
-# My name is **Meyazhagan**
+Hello there👋🏼! I'm Meyazhagan C N, a passionate software developer based in Tamil Nadu, India. My journey in the world of technology has been nothing short of exciting, and I thrive on exploring and creating innovative solutions.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=4FA5F7&size=22&lines=I'm+a+full+stack+developer;Enthusiast+in+design;Love+to+Code;Good+in+problem+solving;Love+to+open+source)](https://git.io/typing-svg)
+Professionally, I am a software developer with a strong focus on cutting-edge technologies. My expertise lies in working with Golang, React, TypeScript, and Kubernetes. I find joy in building scalable and robust applications that can make a positive impact on people's lives.
+
+One of my most significant interests is contributing to the open-source community. I actively participate in various open-source projects, including Meshery, Datree, and Kubescape. Collaborating with like-minded individuals from diverse backgrounds has been an incredibly enriching experience, and I'm always eager to learn and share knowledge with the community.
+
+When I'm not coding or immersed in open-source projects, you can find me exploring new books, indulging in photography, or enjoying the great outdoors. I believe in continuous learning and personal growth, both in my professional and personal life.
+
+If you share similar interests or want to discuss tech, open-source, or anything under the sun, feel free to reach out. Let's connect and build a better world through technology!
+
+-   📫 How to reach me [meyazhagan.ofcl@gmail.com](mailto:meyazhagan.ofcl@gmail.com), [@meyazhaganstwt](https://twitter.com/meyazhaganstwt)
 
 -   🌱 I’m currently learning **Kubernetes**.
 
 -   💬 Ask me about **Javascript**, **ReactJs**, **Nodejs**, **Golang**, **Kubernetes** and **Service Mesh**.
-
--   📫 How to reach me [meyazhagan.ofcl@gmail.com](mailto:meyazhagan.ofcl@gmail.com).
 
 -   ⚡ Fun fact Opportunity does not knock, it presents itself when you beat down the door.
 
