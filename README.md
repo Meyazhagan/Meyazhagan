@@ -49,8 +49,8 @@ Hello there👋🏼! I'm Meyazhagan C N, a full stack developer based in Tamil N
 <a href="https://www.linkedin.com/in/meyazhagan-c-n-7162901b0" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=30077B5" />
 </a>
-<a href="https://drive.google.com/file/d/1A7hc8VZkgYvSSKX667zTl9Mfpms3g4U3/view" target="_blank">
-<img src="https://img.shields.io/badge/My%20Resume-4285F4?style=social&logo=googledrive" />
+<!-- <a href="https://drive.google.com/file/d/1A7hc8VZkgYvSSKX667zTl9Mfpms3g4U3/view" target="_blank">
+<img src="https://img.shields.io/badge/My%20Resume-4285F4?style=social&logo=googledrive" /> -->
 </a>
 <a href="mailto:meyazhagan.ofcl@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/meyazhagan.ofcl@gmail.com-D14836?style=social&logo=gmail" />
